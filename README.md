@@ -63,3 +63,28 @@ Kelas Kegiatan.java yang berada dalam package model didefinisikan sebagai kelas 
 
 Kelas KegiatanSosial merupakan turunan dari Kegiatan yang merepresentasikan aktivitas sosial. Kelas ini menginisialisasi data kegiatan lewat konstruktor serta meng-override metode untuk menampilkan jenis kegiatan sebagai Sosial dengan deskripsi khusus membantu masyarakat.
 
+# Penjelasan Program 
+
+1. Encapsulation (Getter dan Setter)
+   
+<img width="419" height="128" alt="image" src="https://github.com/user-attachments/assets/cee5b2d7-be57-4c5c-9b5b-678f42ada8b0" />
+
+Pada kelas Kegiatan, seluruh atribut ditulis menggunakan akses private seperti private String nama, private String tanggal, dan lain-lain. Modifier private membuat atribut tersebut tidak bisa diakses atau diubah langsung dari luar kelas. Jika ada kode di luar yang mencoba memanggil kegiatan.nama, maka akan terjadi error.
+
+<img width="1061" height="366" alt="image" src="https://github.com/user-attachments/assets/f13ccf9f-157c-4911-99df-7bfb7c6deabd" />
+
+Untuk itu, disediakan metode getter dan setter. Getter berfungsi mengambil nilai dari atribut, misalnya getNama() untuk membaca nama kegiatan. Sedangkan setter digunakan untuk memberikan atau mengubah nilai, contohnya setNama(String nama) untuk memperbarui nama kegiatan.
+
+Dengan teknik ini, programmer dapat menambahkan validasi dalam setter, misalnya memastikan tanggal berformat benar atau nama kegiatan tidak boleh kosong. Konsep ini disebut encapsulation, yang tidak hanya melindungi data tetapi juga menjamin konsistensi serta keabsahan data di dalam program.
+
+2. Inheritance sub class
+
+<img width="1083" height="294" alt="image" src="https://github.com/user-attachments/assets/13f6ed00-f016-4983-8869-53b670ba9425" />
+
+Kelas KegiatanEdukasi adalah subclass yang dibuat dengan kata kunci extends Kegiatan. Artinya, kelas ini otomatis memperoleh semua atribut dan method dari kelas induk Kegiatan. Di dalamnya, method getJenisKegiatan() dan getDeskripsiKhusus() dioverride untuk memberikan identitas khusus sebagai kegiatan edukasi.
+
+<img width="1166" height="278" alt="image" src="https://github.com/user-attachments/assets/8b6a3018-bee2-41ef-bac4-1c82774bdb6e" />
+
+Kelas KegiatanSosial adalah subclass yang dibuat dengan kata kunci extends Kegiatan. Artinya, kelas ini otomatis memperoleh semua atribut dan method dari kelas induk Kegiatan. Di dalamnya, method getJenisKegiatan() dan getDeskripsiKhusus() dioverride untuk memberikan identitas khusus sebagai kegiatan sosial.
+
+
