@@ -113,9 +113,9 @@ Menu yang ada pada sistem Manajemen Kegiatan Sosial
 
 1. Tambah Kegiatan
 
-   <img width="522" height="301" alt="image" src="https://github.com/user-attachments/assets/3c9baac5-a7cb-4c61-8413-d4e5898f7767" />
+<img width="545" height="563" alt="image" src="https://github.com/user-attachments/assets/20459642-6300-489a-b6f2-05b317085148" />
 
-Jika pengguna memilih menu 1, maka secara otomatis akan memasukkan nama kegiatan "Donor Darah" lalu pengguna bisa memasukkan tanggal kapan kegiatan itu akan di lakukan dan lokasi. Setelah sudah, maka kegiatan berhasil ditambahkan. 
+Jika pengguna memilih menu 1, maka memilih kegiatan edukasi atau sosial, setelah memilih lalu masukkan tanggal, lokasi dan nama penyelenggara acara kegiatan soial. 
 
 2. Lihat Kegiatan
 
