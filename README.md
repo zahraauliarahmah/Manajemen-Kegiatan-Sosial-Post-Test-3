@@ -119,19 +119,19 @@ Jika pengguna memilih menu 1, maka memilih kegiatan edukasi atau sosial, setelah
 
 2. Lihat Kegiatan
 
-   <img width="821" height="271" alt="image" src="https://github.com/user-attachments/assets/5b9f4029-38b0-4dce-b4ca-12faf1fcb28b" />
+  <img width="645" height="248" alt="image" src="https://github.com/user-attachments/assets/ceafcc59-a215-497e-bcf0-3f3e43d1d0cc" />
 
 Pada menu 2, program menampilkan semua kegiatan yang sudah tersimpan menggunakan perulangan.
 
 3. Update Kegiatan
    
-<img width="828" height="395" alt="image" src="https://github.com/user-attachments/assets/0e377826-895d-47bc-a0d5-6d8015455152" />
+<img width="608" height="703" alt="image" src="https://github.com/user-attachments/assets/54b0d9ae-857c-4af3-88ed-6895b101f254" />
 
-Jika memilih menu 3 yaitu Update Kegiatan, program akan menampilkan daftar kegiatan, lalu meminta untuk memasukkan nomor kegiatan yang ingin diubah, kemudian mengganti data lama yaitu nama kegiatan, tanggal, lokasi dengan data baru. Setelah itu, kegiatan berhasil di update.
+Jika memilih menu 3 yaitu Update Kegiatan, program akan menampilkan daftar kegiatan, lalu meminta untuk memasukkan nomor kegiatan yang ingin diubah, kemudian mengganti data lama yaitu nama kegiatan, tanggal, lokasi dan penyelenggara dengan data baru. Setelah itu, kegiatan berhasil di update.
 
 4. Hapus Kegiatan
 
-<img width="780" height="292" alt="image" src="https://github.com/user-attachments/assets/944df4dc-04e8-4214-94ac-bf9ab03cc1d7" />
+<img width="576" height="627" alt="image" src="https://github.com/user-attachments/assets/2ea47359-179e-460d-a125-69f816c1fb04" />
 
 Jika memilih Hapus Kegiatan pada menu 4, maka menampilkan daftar kegiatan, lalu meminta nomor kegiatan yang ingin dihapus, kemudian menghapusnya dari daftar kegiatan.
 
@@ -141,7 +141,7 @@ Untuk cek maka pilih no 2, jika tidak ada maka kegiatan berhasil dihapus.
 
 5. Cari Kegiatan 
 
-<img width="760" height="250" alt="image" src="https://github.com/user-attachments/assets/b5a67e72-b812-4108-bed7-7361e590c43a" />
+<img width="545" height="632" alt="image" src="https://github.com/user-attachments/assets/28cdbe3a-8d9d-4c30-b5a4-c55df6aa757a" />
 
 Pada menu 5 yaitu memilih Cari Kegiatan, meminta kata kunci, lalu menampilkan kegiatan yang cocok berdasarkan nama atau tanggal.
 
